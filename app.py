@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Cloud PaaS Demo")
+st.title("Cloud PaaS Demo - Updated Version")
 
 st.write("Ứng dụng này được xây dựng bằng Python và Streamlit.")
 
